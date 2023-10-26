@@ -31,3 +31,16 @@ This project is under construction and the licensing details will be added once 
 For inquiries and collaboration, please contact [Project Team].
 
 *Note: This README is a work in progress and will be updated as the project evolves.*
+
+### Installation
+
+1. Clone the repository.
+2. Run the setup script.
+3. Configure the necessary parameters.
+4. Start the server.
+
+### Contribution Guidelines
+
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Submit a pull request.
